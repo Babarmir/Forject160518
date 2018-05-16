@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Forject16-05-18</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="title_activity_wellness">wellness</string>
+    <string name="trouble">Trouble Loggin In?</string>
+    <string name="contact">Contact Us</string>
+    <string name="login">LOGIN</string>
+    <string name="fofgot">Forgot Password</string>
+    <string name="name">Paul</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="poul">Poul</string>
+    <string name="mathew">Metthew</string>
+    <string name="phone">Phone Number</string>
+    <string name="zipcode">ZIP Code</string>
+    <string name="phonen">666-777-222</string>
+    <string name="zipcoden">666777</string>
+    <string name="emailAddress">poul.metthew@example.com</string>
+
+</resources>
